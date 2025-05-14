@@ -10,9 +10,6 @@
 ## ⚠️ Compatibility Note
 Due to how **armor textures are handled in Minecraft**, this pack will **not work correctly alongside other resource packs that modify armor models or textures**.
 
-## 🖼️ Preview
-*(Add your preview image here)*
-
 ## 📢 Mod Support
 Want support for a specific mod or armor set? Drop a suggestion on **[GitHub](https://github.com/NotToBlame/so-no-head)** or reach out directly!
 
